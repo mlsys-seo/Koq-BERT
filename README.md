@@ -70,3 +70,6 @@
 - 성능 측정 결과
 
   ![table_img](https://user-images.githubusercontent.com/33375019/105458787-8a66aa80-5ccc-11eb-8c36-abb7074a8fff.png)
+  
+ 
+해당 기술은 exobrain “WiseKB:빅데이터 이해 기반 자가학습형 지식베이스 및 추론 기술 개발”의 연구중 hanyang 서지원교수 연구실(WP3)에서 - BERT 모델의 추론성능 개선을 위한 Kernel Fusion 및 FP16 Quantization 적용한 기술입니다.
