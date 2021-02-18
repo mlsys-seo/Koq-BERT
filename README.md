@@ -5,7 +5,7 @@
 - 현재(2021년 1월) Saltlux AI홈페이지(https://www.saltlux.ai/portal/api_detail?id=category14) 에서 Kernel fusion 및 FP16 양자화를 적용한 모델을 서비스 중에 있습니다.
 - 모델: BERT-Large
 - 데이터셋: Saltlux에서 제공한 감성분석 evalutaion dataset(한 문장에 대한 극성(긍정, 부정, 중립) classification task)
-- English BERT model MRPC Task에서도 적용 가능
+- 두 문장간의 유사성을 판별하는 MRPC Task에 적용 가능
 
 ![model_img](https://user-images.githubusercontent.com/33375019/105456789-1d9de100-5cc9-11eb-9e75-e01404f0784d.png)
 
